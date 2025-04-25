@@ -19,3 +19,4 @@ try:
         print(f"Average patient age: {average_age}")
 except ValueError:
     print("Please enter a valid number for the number of patients.")        
+    
