@@ -1,0 +1,5 @@
+[tool.ruff]
+line-length = 79
+
+[tool.ruff.lint]
+select = ["E", "F"]  # Enforce PEP 8 rules (E for style, F for flake8 rules)
